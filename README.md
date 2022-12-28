@@ -1,5 +1,6 @@
-Hi, I am Mondli Masondo (@MEBZMasondo), I am interested in all things computational.
-I am currently studying Computer Science and Information Technology from the University of KwaZulu Natal.
+# About Me
+BSc Computer Science and Information Technology graduate.
+I am interested in all things computational. I love computer technology application to solve problems and add value to humanity.
 How to reach me : mondlime8@gmail.com
 
 <!---
