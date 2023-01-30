@@ -1,7 +1,6 @@
-# About Me
+# About Me ✨
 BSc Computer Science and Information Technology graduate.
 I am interested in all things computational. I love computer technology application to solve problems and add value to humanity.
-How to reach me : mondlime8@gmail.com
 
 <!---
 MEBZMasondo/MEBZMasondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
