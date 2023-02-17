@@ -1,8 +1,10 @@
 # About Me :tophat:✨
 - :books: :mortar_board: BSc Computer Science and Information Technology graduate.
 - I am interested in all things computational. I love computer technology application to solve problems and add value.
+- Interested in Software Engineering, Artificial Intelligence and a lot more...
 
-:computer:
+- 💻
+🖥️
 :floppy_disk:
 :cd:
 :minidisc:
