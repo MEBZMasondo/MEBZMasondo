@@ -1,6 +1,6 @@
 # About Me 🎩✨
 - :books: :mortar_board:
-- I am interested in all things computational. I love computer technology application to solve problems and add value.
+- I am interested in computer technology to solve problems and add value.
 
 - 💻
 🖥️
@@ -11,8 +11,6 @@
 :satellite:
 :microscope:
 :telescope:
-🚀
-
 
 <!---
 MEBZMasondo/MEBZMasondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
