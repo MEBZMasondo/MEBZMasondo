@@ -1,7 +1,6 @@
 # About Me 🎩✨
-- :books: :mortar_board: BSc Computer Science and Information Technology graduate.
+- :books: :mortar_board:
 - I am interested in all things computational. I love computer technology application to solve problems and add value.
-- Interested in Software Engineering, Artificial Intelligence and a lot more...
 
 - 💻
 🖥️
