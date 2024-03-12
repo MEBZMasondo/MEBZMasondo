@@ -1,6 +1,6 @@
 # About Me 🧔
 
-- I am interested in computer technology to solve problems and add value.
+- I am interested in computer technology, solving problems and adding value.
 
 <!---
 MEBZMasondo/MEBZMasondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
