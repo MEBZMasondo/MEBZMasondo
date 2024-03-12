@@ -1,4 +1,4 @@
-# About Me 🎩✨
+# About Me 🧔
 
 - I am interested in computer technology to solve problems and add value.
 
