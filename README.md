@@ -6,5 +6,5 @@
 - Web Development
 - Mobile Development
 
-⚙️ Building with Java, Spring Boot, Angular & Flutter 
-🧠 Learning AI : Machine Learning, Data Science 
+- ⚙️ Building with Java, Spring Boot, Angular & Flutter 
+- 🧠 Learning AI : Machine Learning, Data Science 
